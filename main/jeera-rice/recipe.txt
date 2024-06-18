@@ -3,5 +3,9 @@
  Add cumin seeds and let them splutter.
  Add soaked rice and sauté for a minute.
  Add water and salt, and cook until rice is done.
+<<<<<<< HEAD
  Garnish with fresh coriander leaves.
  
+=======
+ Garnish with fresh coriander leaves.
+>>>>>>> feature/jeera-rice
